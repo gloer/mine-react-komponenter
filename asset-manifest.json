@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/mine-react-komponenter/static/css/main.ae853be4.chunk.css",
+    "main.js": "/mine-react-komponenter/static/js/main.830c556e.chunk.js",
+    "main.js.map": "/mine-react-komponenter/static/js/main.830c556e.chunk.js.map",
+    "runtime-main.js": "/mine-react-komponenter/static/js/runtime-main.ae1e2429.js",
+    "runtime-main.js.map": "/mine-react-komponenter/static/js/runtime-main.ae1e2429.js.map",
+    "static/js/2.1a62e7ae.chunk.js": "/mine-react-komponenter/static/js/2.1a62e7ae.chunk.js",
+    "static/js/2.1a62e7ae.chunk.js.map": "/mine-react-komponenter/static/js/2.1a62e7ae.chunk.js.map",
+    "index.html": "/mine-react-komponenter/index.html",
+    "precache-manifest.795b3e7f219810e8cb163369d66ddb5f.js": "/mine-react-komponenter/precache-manifest.795b3e7f219810e8cb163369d66ddb5f.js",
+    "service-worker.js": "/mine-react-komponenter/service-worker.js",
+    "static/css/main.ae853be4.chunk.css.map": "/mine-react-komponenter/static/css/main.ae853be4.chunk.css.map",
+    "static/media/logo.svg": "/mine-react-komponenter/static/media/logo.25bf045c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ae1e2429.js",
+    "static/js/2.1a62e7ae.chunk.js",
+    "static/css/main.ae853be4.chunk.css",
+    "static/js/main.830c556e.chunk.js"
+  ]
+}
